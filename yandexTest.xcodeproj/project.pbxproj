@@ -13,6 +13,8 @@
 		7C3C597C2AA3B10300ACE91B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C3C597A2AA3B10300ACE91B /* Main.storyboard */; };
 		7C3C597E2AA3B10600ACE91B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C3C597D2AA3B10600ACE91B /* Assets.xcassets */; };
 		7C3C59812AA3B10600ACE91B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C3C597F2AA3B10600ACE91B /* LaunchScreen.storyboard */; };
+		7C3C59892AA3B32100ACE91B /* words.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7C3C59882AA3B32100ACE91B /* words.txt */; };
+		7C3C598B2AA3B36900ACE91B /* Task1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C3C598A2AA3B36900ACE91B /* Task1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		7C3C597D2AA3B10600ACE91B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7C3C59802AA3B10600ACE91B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7C3C59822AA3B10600ACE91B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7C3C59882AA3B32100ACE91B /* words.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = words.txt; sourceTree = "<group>"; };
+		7C3C598A2AA3B36900ACE91B /* Task1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				7C3C597D2AA3B10600ACE91B /* Assets.xcassets */,
 				7C3C597F2AA3B10600ACE91B /* LaunchScreen.storyboard */,
 				7C3C59822AA3B10600ACE91B /* Info.plist */,
+				7C3C59882AA3B32100ACE91B /* words.txt */,
+				7C3C598A2AA3B36900ACE91B /* Task1.swift */,
 			);
 			path = yandexTest;
 			sourceTree = "<group>";
@@ -127,6 +133,7 @@
 			files = (
 				7C3C59812AA3B10600ACE91B /* LaunchScreen.storyboard in Resources */,
 				7C3C597E2AA3B10600ACE91B /* Assets.xcassets in Resources */,
+				7C3C59892AA3B32100ACE91B /* words.txt in Resources */,
 				7C3C597C2AA3B10300ACE91B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -140,6 +147,7 @@
 			files = (
 				7C3C59792AA3B10300ACE91B /* ViewController.swift in Sources */,
 				7C3C59752AA3B10300ACE91B /* AppDelegate.swift in Sources */,
+				7C3C598B2AA3B36900ACE91B /* Task1.swift in Sources */,
 				7C3C59772AA3B10300ACE91B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
